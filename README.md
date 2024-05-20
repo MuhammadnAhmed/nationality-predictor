@@ -1,3 +1,16 @@
+
+# Nationality Predictor
+
+This is a simple React application that predicts the nationality of a person based on their name using the [nationalize.io](https://nationalize.io) API. The application features an input field where users can enter a name, and upon clicking the "Predict" button, it fetches and displays the most likely nationality along with the probability.
+
+## Features
+
+- Auto-focused input field for entering names
+- Predicts the nationality based on the input name using the `nationalize.io` API
+- Displays the predicted nationality with the probability
+- Styled using Bootstrap for a clean and responsive design
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
